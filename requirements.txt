@@ -1,0 +1,15 @@
+Flask
+cherrypy
+uwsgi
+flask-restplus
+flask-pymongo
+pytz
+dateutils
+pyyaml
+pykwalify
+marshmallow
+requests
+celery
+redis
+pyserial
+pydrive
