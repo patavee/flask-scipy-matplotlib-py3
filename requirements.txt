@@ -13,3 +13,5 @@ celery
 redis
 pyserial
 pydrive
+rx
+psutil
