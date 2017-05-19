@@ -9,6 +9,7 @@ RUN apt-get update && apt-get install -y \
     nano \
     net-tools \
     build-essential \
+    libssl-dev \
     openssh-client && \
 rm -rf /var/lib/apt/lists/*
 
